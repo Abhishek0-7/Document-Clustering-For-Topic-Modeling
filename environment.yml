@@ -1,0 +1,21 @@
+name: document_clustering
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - requests
+  - beautifulsoup4
+  - selenium
+  - pandas
+  - numpy
+  - nltk
+  - spacy
+  - gensim
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - pyldavis
+  - tqdm
+  - notebook
+  - pip

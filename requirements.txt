@@ -1,0 +1,14 @@
+requests
+beautifulsoup4
+selenium
+pandas
+numpy
+nltk
+spacy
+gensim
+scikit-learn
+matplotlib
+seaborn
+pyLDAvis
+tqdm
+notebook

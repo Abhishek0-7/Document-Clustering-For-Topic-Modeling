@@ -1,5 +1,3 @@
-# clustering.py
-
 from sklearn.cluster import KMeans
 from sklearn.metrics import silhouette_score, adjusted_rand_score
 import numpy as np

@@ -1,5 +1,3 @@
-# vectorization.py
-
 from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 
 def create_tfidf_vectorizer(**kwargs):

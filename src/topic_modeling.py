@@ -1,5 +1,3 @@
-# topic_modeling.py
-
 from sklearn.decomposition import LatentDirichletAllocation
 import numpy as np
 

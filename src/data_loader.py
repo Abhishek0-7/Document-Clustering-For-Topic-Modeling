@@ -1,5 +1,3 @@
-# data_loader.py
-
 from sklearn.datasets import fetch_20newsgroups
 import pandas as pd
 
